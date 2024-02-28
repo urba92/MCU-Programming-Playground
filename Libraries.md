@@ -7,7 +7,7 @@
       <th>Описание</th>
     </tr>
     <tr>
-      <td colspan="3" align="center"><b>Управление приводами и моторами</b></td>
+      <td colspan="3" align="center"><b>Управление устройствами</b></td>
     </tr>
     <tr>
       <td>Arduino</td>
@@ -15,9 +15,9 @@
       <td>An easy to use L298N library to control DC Motors with Arduino.</td>
     </tr>
     <tr>
-      <td>Arduino</td>
-      <td><a href="https://mysensorlib.com">Sensor2</a></td>
-      <td>Описание Sensor2</td>
+      <td>STM32</td>
+      <td><a href="https://github.com/Crazy-Geeks/STM32-ARGB-DMA">STM32-ARGB-DMA</a></td>
+      <td>Fastest and simplest library for ARGB LEDs</td>
     </tr>
     <tr>
       <td colspan="3" align="center"><b>Сенсоры и датчики</b></td>
