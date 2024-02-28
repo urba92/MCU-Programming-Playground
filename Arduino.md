@@ -38,8 +38,7 @@
     </tr>
 </table>
 
-<p align="center">
-  <table>
+<table align="center">
     <tr>
       <th>Платформа</th>
       <th>Название библиотеки</th>
@@ -72,5 +71,4 @@
       <td>Описание Display2</td>
     </tr>
     <!-- Другие строки таблицы -->
-  </table>
-</p>
+</table>
