@@ -41,9 +41,6 @@
 <p align="center">
   <table>
     <tr>
-      <th colspan="3" align="center">Библиотеки</th>
-    </tr>
-    <tr>
       <th>Платформа</th>
       <th>Название библиотеки</th>
       <th>Описание</th>
