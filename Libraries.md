@@ -6,7 +6,6 @@
       <th>Название</th>
       <th>Описание</th>
     </tr>
-    
     <tr>
       <td colspan="3" align="center"><b>Управление приводами и моторами</b></td>
     </tr>
@@ -20,7 +19,6 @@
       <td><a href="https://mysensorlib.com">Sensor2</a></td>
       <td>Описание Sensor2</td>
     </tr>
-    
     <tr>
       <td colspan="3" align="center"><b>Дисплеи</b></td>
     </tr>
@@ -34,5 +32,4 @@
       <td><a href="https://lcd_display.com">Display2</a></td>
       <td>Описание Display2</td>
     </tr>
-
 </table>
