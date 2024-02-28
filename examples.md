@@ -3,4 +3,4 @@
 - [RPM_Monitor](https://github.com/Saad-Imtiaz/RPM-Monitor)
 
 
-<h1 align="center">Примеры</h1>
+<p align="center">Примеры</p>
