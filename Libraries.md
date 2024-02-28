@@ -51,9 +51,9 @@
       <td>GPS library and PCB for ARM STM32</td>
     </tr>
     <tr>
-      <td>Arduino</td>
-      <td><a href="https://lcd_display.com">Display2</a></td>
-      <td>Описание Display2</td>
+      <td>STM32</td>
+      <td><a href="https://github.com/nimaltd/NMEA">NMEA</a></td>
+      <td>GPS NMEA Library for stm32 LL</td>
     </tr>
     <tr>
     <td colspan="3" align="center"><b>Управление дисплеями и отображение информации</b></td>
