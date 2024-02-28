@@ -2,6 +2,5 @@
 
 - [RPM_Monitor](https://github.com/Saad-Imtiaz/RPM-Monitor)
 
-Примеры
---
-<p align="center">Примеры</p>
+<h2 align="center">Self Balancing Robot</h2>
+
