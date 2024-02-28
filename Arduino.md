@@ -53,7 +53,7 @@
       <td>Библиотека для работы с датчиками</td>
     </tr>
     <tr>
-      <td>Arduino</td>
+      <td>Arduinвo</td>
       <td><a href="https://lcd_display.com">LCD_Display</a></td>
       <td>Библиотека для управления LCD-дисплеем</td>
     </tr>
