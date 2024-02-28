@@ -46,9 +46,9 @@
       <td colspan="3" align="center"><b>Связь и коммуникация</b></td>
     </tr>
     <tr>
-      <td>Arduino</td>
-      <td><a href="https://lcd_display.com">Display1</a></td>
-      <td>Описание Display1</td>
+      <td>STM32</td>
+      <td><a href="https://github.com/MasoudHeidary/GPS-for-STM32-PCB">GPS-for-STM32-PCB</a></td>
+      <td>GPS library and PCB for ARM STM32</td>
     </tr>
     <tr>
       <td>Arduino</td>
