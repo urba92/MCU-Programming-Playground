@@ -46,7 +46,7 @@
       <th>Описание</th>
     </tr>
     <tr>
-      <td colspan="3"><b>СЕНСОРЫ</b></td>
+      <td colspan="3" align="center"><b>СЕНСОРЫ</b></td>
     </tr>
     <tr>
       <td>Arduino</td>
@@ -59,7 +59,7 @@
       <td>Описание Sensor2</td>
     </tr>
     <tr>
-      <td colspan="3"><b>Дисплеи</b></td>
+      <td colspan="3" align="center"><b>Дисплеи</b></td>
     </tr>
     <tr>
       <td>Arduino</td>
