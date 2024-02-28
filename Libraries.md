@@ -74,7 +74,7 @@
     </tr>
     <tr>
     <td>Arduino</td>
-      <td><a href="https://lcd_display.com">1</a></td>
-      <td>Описание 1</td>
+      <td><a href="https://lcd_display.com">Название</a></td>
+      <td>Описание</td>
     </tr>
 </table>
