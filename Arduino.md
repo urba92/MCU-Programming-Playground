@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td>Arduino</td>
-      <td>[MySensorLib](https://chat.openai.com/c/cd909562-487a-4b9c-af8c-1022ef9d8996)</td>
+      <td><a href="https://mysensorlib.com">MySensorLib</a></td>
       <td>Библиотека для работы с датчиками</td>
     </tr>
     <tr>
