@@ -37,3 +37,26 @@
       <td>Реальное время операционной системы</td>
     </tr>
 </table>
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Категория</th>
+      <th>Платформа</th>
+      <th>Название библиотеки</th>
+      <th>Описание</th>
+    </tr>
+    <tr>
+      <td rowspan="2">Sensors</td>
+      <td>Arduino</td>
+      <td><a href="https://mysensorlib.com">MySensorLib</a></td>
+      <td>Библиотека для работы с датчиками</td>
+    </tr>
+    <tr>
+      <td>Arduino</td>
+      <td><a href="https://lcd_display.com">LCD_Display</a></td>
+      <td>Библиотека для управления LCD-дисплеем</td>
+    </tr>
+    <!-- Другие строки таблицы -->
+  </table>
+</p>
