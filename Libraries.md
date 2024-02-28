@@ -23,9 +23,9 @@
       <td colspan="3" align="center"><b>Сенсоры и датчики</b></td>
     </tr>
     <tr>
-      <td>Arduino</td>
-      <td><a href="https://lcd_display.com">Display1</a></td>
-      <td>Описание Display1</td>
+      <td>STM32</td>
+      <td><a href="https://github.com/talhaSr/ina219">INA219</a></td>
+      <td>Zerø-Drift, Bidirectional Current/Power Monitor With I2C Interface</td>
     </tr>
     <tr>
       <td>Arduino</td>
