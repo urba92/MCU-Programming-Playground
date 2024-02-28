@@ -29,8 +29,8 @@
     </tr>
     <tr>
       <td>Arduino</td>
-      <td><a href="https://lcd_display.com">Display2</a></td>
-      <td>Описание Display2</td>
+      <td><a href="https://github.com/komuch/PSM_INA219_STM32">INA219</a></td>
+      <td>INA219 library for STM32 (HAL)1</td>
     </tr>
     <tr>
       <td colspan="3" align="center"><b>Связь и коммуникация</b></td>
