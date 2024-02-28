@@ -7,12 +7,12 @@
       <th>Описание</th>
     </tr>
     <tr>
-      <td colspan="3" align="center"><b>СЕНСОРЫ</b></td>
+      <td colspan="3" align="center"><b>Управление приводами и моторами</b></td>
     </tr>
     <tr>
       <td>Arduino</td>
-      <td><a href="https://mysensorlib.com">Sensor1</a></td>
-      <td>Описание Sensor1</td>
+      <td><a href="https://github.com/AndreaLombardo/L298N">L298N Library</a></td>
+      <td>An easy to use L298N library to control DC Motors with Arduino.</td>
     </tr>
     <tr>
       <td>Arduino</td>
