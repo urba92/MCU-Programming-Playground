@@ -1,5 +1,4 @@
-<h2 align="center">Библиотеки</h2>
-
+<h1 align="center">Библиотеки</h1>
 <table align="center">
     <tr>
       <th>Платформа</th>
