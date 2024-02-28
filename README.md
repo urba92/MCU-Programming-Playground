@@ -1,6 +1,4 @@
-<h1 align="center">
-  MCU Programming Playground
-</h1>
+<h1 align="center">MCU Programming Playground</h1>
 
 Добро пожаловать в MCU Programming Playground - ваш источник материалов для программирования микроконтроллеров Arduino, ESP32 и STM32!
 
