@@ -1,4 +1,4 @@
-<h2 align="center">Примеры</h2>
+<h1 align="center">Примеры</h1>
 
 - [RPM_Monitor](https://github.com/Saad-Imtiaz/RPM-Monitor)
 
