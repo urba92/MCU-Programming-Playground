@@ -8,3 +8,8 @@
 - [OSOYOO 2WD Balance Car Robot](https://github.com/osoyoo/Osoyoo-development-kits/tree/master/OSOYOO%202WD%20Balance%20Car%20Robot)
 - [KS0193-Self-balancing-Car-Kit](https://github.com/keyestudio/KS0193-Self-balancing-Car-Kit)
 - [Arduino-Balance-Car](https://github.com/YahboomTechnology/Arduino-Balance-Car)
+- [AxelsMiniBalancingRobot](https://github.com/littleningmeng/AxelsMiniBalancingRobot)
+- [PIFWRobot](https://github.com/tuannv0898/PIFer)
+- [Self balancing telepresence robot](https://github.com/husarion/self-balancing-telepresence-robot)
+- [Self-Balancing-Cube](https://github.com/remrc/Self-Balancing-Cube)
+- [Balance Bot](https://github.com/heethesh/Balance-Bot)
