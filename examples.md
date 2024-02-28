@@ -13,3 +13,5 @@
 - [Self balancing telepresence robot](https://github.com/husarion/self-balancing-telepresence-robot)
 - [Self-Balancing-Cube](https://github.com/remrc/Self-Balancing-Cube)
 - [Balance Bot](https://github.com/heethesh/Balance-Bot)
+- [Self-Balancing-Arduino-Robot-Controller](https://github.com/josealejandro2928/Self-Balancing-Arduino-Robot-Controller)
+- [HAL_STM32_Balance_Car](https://github.com/HZ1213825/HAL_STM32_Balance_Car)
