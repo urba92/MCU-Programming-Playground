@@ -9,8 +9,7 @@
 | STM32     | STM32_HAL                 | Библиотека периферии для STM32           |
 | STM32     | FreeRTOS                  | Реальное время операционной системы      |
 
-<p align="center">
-  <table>
+<table align="center">
     <tr>
       <th>Платформа</th>
       <th>Название библиотеки</th>
@@ -46,5 +45,4 @@
       <td>FreeRTOS</td>
       <td>Реальное время операционной системы</td>
     </tr>
-  </table>
-</p>
+</table>
