@@ -38,6 +38,11 @@
       <td>Kalman Filter Implementation for MPU6050 on STM32 Nucleo Board</td>
     </tr>
     <tr>
+      <td>STM32</td>
+      <td><a href="https://github.com/MarkSherstan/MPU-6050-9250-I2C-CompFilter">MPU-6050-9250-I2C-CompFilter</a></td>
+      <td>MPU-6050 and MPU-9250 I2C or SPI Complementary Filter</td>
+    </tr>
+    <tr>
       <td colspan="3" align="center"><b>Связь и коммуникация</b></td>
     </tr>
     <tr>
