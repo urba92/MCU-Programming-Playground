@@ -66,9 +66,9 @@
     <td colspan="3" align="center"><b>Звук и аудио</b></td>
     </tr>
     <tr>
-      <td>Arduino</td>
-      <td><a href="https://lcd_display.com">1</a></td>
-      <td>Описание 1</td>
+      <td>STM32</td>
+      <td><a href="https://github.com/Egoruch/Buzzer-STM32-HAL">Buzzer-STM32-HAL</a></td>
+      <td>Simple library to generate impulses for passive or active buzzer</td>
     </tr>
     <td colspan="3" align="center"><b>Ввод и управление</b></td>
     </tr>
