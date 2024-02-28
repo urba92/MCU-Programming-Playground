@@ -15,3 +15,7 @@
 - [Balance Bot](https://github.com/heethesh/Balance-Bot)
 - [Self-Balancing-Arduino-Robot-Controller](https://github.com/josealejandro2928/Self-Balancing-Arduino-Robot-Controller)
 - [HAL_STM32_Balance_Car](https://github.com/HZ1213825/HAL_STM32_Balance_Car)
+- [balanceRobot.simple.ino](https://github.com/UlrikHjort/Arduino-Self-Balancing-Robot-Simple-Complementary-Filter/blob/main/balanceRobot.simple.ino)
+- [Segway.cpp](https://github.com/martyg77/rtos/blob/master/src/Segway.cpp)
+- [BalancingRobot.ino](https://github.com/awk6873/arduino-BalancingRobot/blob/main/BalancingRobot/BalancingRobot.ino)
+- [self_balancing_robot_angle_pos_pid.ino](https://github.com/Aaatresh/self-balancing-robot/blob/master/code/self_balancing_robot_angle_pos_pid/self_balancing_robot_angle_pos_pid.ino)
