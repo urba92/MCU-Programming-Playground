@@ -33,6 +33,11 @@
       <td>INA219 library for STM32 (HAL)</td>
     </tr>
     <tr>
+      <td>STM32</td>
+      <td><a href="https://github.com/ibrahimcahit/STM32_MPU6050_KalmanFilter">STM32_MPU6050_KalmanFilter</a></td>
+      <td>Kalman Filter Implementation for MPU6050 on STM32 Nucleo Board</td>
+    </tr>
+    <tr>
       <td colspan="3" align="center"><b>Связь и коммуникация</b></td>
     </tr>
     <tr>
