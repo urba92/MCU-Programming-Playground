@@ -41,7 +41,7 @@
 <p align="center">
   <table>
     <tr>
-      <th colspan="3">Библиотеки</th>
+      <th colspan="3" align="center">Библиотеки</th>
     </tr>
     <tr>
       <th>Платформа</th>
