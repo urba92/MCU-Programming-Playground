@@ -59,9 +59,9 @@
     <td colspan="3" align="center"><b>Управление дисплеями и отображение информации</b></td>
     </tr>
     <tr>
-      <td>Arduino</td>
-      <td><a href="https://lcd_display.com">Display1</a></td>
-      <td>Описание Display1</td>
+      <td>STM32</td>
+      <td><a href="https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7735">STM32_Lib_TFT_ST7735</a></td>
+      <td>STM32 Display ST7735</td>
     </tr>
     <tr>
       <td>Arduino</td>
