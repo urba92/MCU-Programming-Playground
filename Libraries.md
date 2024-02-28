@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td>STM32</td>
-      <td><a href="https://github.com/komuch/PSM_INA219_STM32">INA219</a></td>
+      <td><a href="https://github.com/komuch/PSM_INA219_STM32">PSM_INA219_STM32</a></td>
       <td>INA219 library for STM32 (HAL)</td>
     </tr>
     <tr>
