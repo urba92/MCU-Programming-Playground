@@ -76,4 +76,11 @@
       <td><a href="https://lcd_display.com">Название</a></td>
       <td>Описание</td>
     </tr>
+        <td colspan="3" align="center"><b>Обработка данных и алгоритмы</b></td>
+    </tr>
+    <tr>
+    <td>STM32</td>
+      <td><a href="https://github.com/mbedlab/PID-Library">PID-Library</a></td>
+      <td>C/C++ PID Controller library for ARM Cortex M (STM32)</td>
+    </tr>
 </table>
