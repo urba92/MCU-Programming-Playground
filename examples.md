@@ -11,6 +11,7 @@
 - [M5Bala](https://github.com/m5stack/M5Bala)
 - [AxelsMiniBalancingRobot](https://github.com/littleningmeng/AxelsMiniBalancingRobot)
 - [PIFWRobot](https://github.com/tuannv0898/PIFer)
+- [BalancingWii](https://github.com/mahowik/BalancingWii)
 - [Self balancing telepresence robot](https://github.com/husarion/self-balancing-telepresence-robot)
 - [Self-Balancing-Cube](https://github.com/remrc/Self-Balancing-Cube)
 - [Balance Bot](https://github.com/heethesh/Balance-Bot)
