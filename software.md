@@ -6,4 +6,5 @@
 
 
 [ESP32 Partition Tool](https://github.com/serifpersia/esp32partitiontool)
+
 [Arduino ESP32 filesystem uploader](https://github.com/lorol/arduino-esp32fs-plugin)
