@@ -83,4 +83,8 @@
       <td><a href="https://github.com/mbedlab/PID-Library">PID-Library</a></td>
       <td>C/C++ PID Controller library for ARM Cortex M (STM32)</td>
     </tr>
+    <td>Arduino</td>
+      <td><a href="https://github.com/PowerBroker2/ArduPID">ArduPID</a></td>
+      <td>PID library for Arduinos with greater accuracy than the legacy Arduino PID library</td>
+    </tr>
 </table>
