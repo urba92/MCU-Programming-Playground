@@ -89,6 +89,6 @@
     </tr>
     <td>Arduino</td>
       <td><a href="https://github.com/TKJElectronics/KalmanFilter">KalmanFilter</a></td>
-      <td>This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope.</td>
+      <td>This is a Kalman filter library for any microcontroller that supports float math.</td>
     </tr>
 </table>
