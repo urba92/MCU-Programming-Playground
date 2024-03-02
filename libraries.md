@@ -87,4 +87,8 @@
       <td><a href="https://github.com/PowerBroker2/ArduPID">ArduPID</a></td>
       <td>PID library for Arduinos with greater accuracy than the legacy Arduino PID library</td>
     </tr>
+    <td>Arduino</td>
+      <td><a href="https://github.com/TKJElectronics/KalmanFilter">KalmanFilter</a></td>
+      <td>This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope.</td>
+    </tr>
 </table>
