@@ -21,3 +21,8 @@
 - [Segway.cpp](https://github.com/martyg77/rtos/blob/master/src/Segway.cpp)
 - [BalancingRobot.ino](https://github.com/awk6873/arduino-BalancingRobot/blob/main/BalancingRobot/BalancingRobot.ino)
 - [self_balancing_robot_angle_pos_pid.ino](https://github.com/Aaatresh/self-balancing-robot/blob/master/code/self_balancing_robot_angle_pos_pid/self_balancing_robot_angle_pos_pid.ino)
+
+  <h2 align="center">Flight Controller</h2>
+
+- [Liberty-X Flight Controller](https://github.com/F33RNI/Liberty-X)
+- [EmuFlight](https://github.com/emuflight/EmuFlight)
