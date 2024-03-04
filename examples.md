@@ -2,6 +2,7 @@
 
 - [RPM_Monitor](https://github.com/Saad-Imtiaz/RPM-Monitor)
 - [The sample code for driving one way motor encoder](https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450)
+- [Arduino - Motor PID speed control](https://engineer2you.blogspot.com/2016/12/arduino-motor-pid-speed-control.html)
 
 <h2 align="center">Self Balancing Robot</h2>
 
