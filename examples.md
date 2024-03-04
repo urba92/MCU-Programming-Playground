@@ -8,6 +8,7 @@
 - [Motor Encoders with Arduino](https://andrewjkramer.net/motor-encoders-arduino/)
 - [Arduino and MPU6050 Accelerometer and Gyroscope Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/)
 - [Measuring Wheel using Arduino and Rotary Encoder](https://www.circuitschools.com/diy-measuring-wheel-using-arduino-and-rotary-encoder/)
+- [Motor DC con Encoder – Velocidad – Posición](https://controlautomaticoeducacion.com/arduino/motor-dc-encoder/)
 
 <h2 align="center">Self Balancing Robot</h2>
 
