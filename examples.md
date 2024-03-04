@@ -1,5 +1,6 @@
 <h1 align="center">Примеры</h1>
 
+- [Arduino: Mengirim Data JSON ke PC dan Menerima Perintah JSON dari PC Melalui Port Serial](https://telinks.wordpress.com/2021/09/07/arduino-mengirim-data-json-ke-pc-dan-menerima-perintah-json-dari-pc-melalui-port-serial-arduinojson-vs-lazarus-freepascal/)
 - [RPM_Monitor](https://github.com/Saad-Imtiaz/RPM-Monitor)
 - [The sample code for driving one way motor encoder](https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450)
 - [Arduino - Motor PID speed control](https://engineer2you.blogspot.com/2016/12/arduino-motor-pid-speed-control.html)
