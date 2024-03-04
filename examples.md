@@ -31,6 +31,7 @@
 - [Segway.cpp](https://github.com/martyg77/rtos/blob/master/src/Segway.cpp)
 - [BalancingRobot.ino](https://github.com/awk6873/arduino-BalancingRobot/blob/main/BalancingRobot/BalancingRobot.ino)
 - [self_balancing_robot_angle_pos_pid.ino](https://github.com/Aaatresh/self-balancing-robot/blob/master/code/self_balancing_robot_angle_pos_pid/self_balancing_robot_angle_pos_pid.ino)
+- [Velocity_measure.ino](https://github.com/Elkinmt19/super-balancing-robot/blob/3ab94dd8a5fa8a8f98387560d15d99f05e7c6365/Controller%20implementation/arduino/Velocity_measure/Velocity_measure.ino)
 
   <h2 align="center">Flight Controller</h2>
 
