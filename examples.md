@@ -9,6 +9,7 @@
 - [KS0193-Self-balancing-Car-Kit](https://github.com/keyestudio/KS0193-Self-balancing-Car-Kit)
 - [Arduino-Balance-Car](https://github.com/YahboomTechnology/Arduino-Balance-Car)
 - [M5Bala](https://github.com/m5stack/M5Bala)
+- [BalancingRobotArduino](https://github.com/TKJElectronics/BalancingRobotArduino/tree/a3741fe8e43bb530dd653d5dc4a8c3bbec8d448f)
 - [AxelsMiniBalancingRobot](https://github.com/littleningmeng/AxelsMiniBalancingRobot)
 - [PIFWRobot](https://github.com/tuannv0898/PIFer)
 - [BalancingWii](https://github.com/mahowik/BalancingWii)
@@ -26,3 +27,4 @@
 
 - [Liberty-X Flight Controller](https://github.com/F33RNI/Liberty-X)
 - [EmuFlight](https://github.com/emuflight/EmuFlight)
+- [drone-flight-controller](https://github.com/lobodol/drone-flight-controller/tree/a05912fda4519d70fb7f154592896026e8e2364b)
