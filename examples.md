@@ -16,6 +16,7 @@
 - [Self balancing telepresence robot](https://github.com/husarion/self-balancing-telepresence-robot)
 - [Self-Balancing-Cube](https://github.com/remrc/Self-Balancing-Cube)
 - [Balance Bot](https://github.com/heethesh/Balance-Bot)
+- [esp32_wifi_balancing_robot](https://github.com/bluino/esp32_wifi_balancing_robot/tree/4b89780753b002b01a174844d3e9ee0854763616)
 - [Self-Balancing-Arduino-Robot-Controller](https://github.com/josealejandro2928/Self-Balancing-Arduino-Robot-Controller)
 - [HAL_STM32_Balance_Car](https://github.com/HZ1213825/HAL_STM32_Balance_Car)
 - [balanceRobot.simple.ino](https://github.com/UlrikHjort/Arduino-Self-Balancing-Robot-Simple-Complementary-Filter/blob/main/balanceRobot.simple.ino)
