@@ -19,6 +19,11 @@
       <td>Fastest and simplest library for ARGB LEDs</td>
     </tr>
     <tr>
+      <td>Arduino</td>
+      <td><a href="https://github.com/EasyG0ing1/SimpleEncoder">SimpleEncoder</a></td>
+      <td>SimpleEncoder is a library that makes it easy to use rotary encoders with Arduino's</td>
+    </tr>
+    <tr>
       <td colspan="3" align="center"><b>Сенсоры и датчики</b></td>
     </tr>
     <tr>
